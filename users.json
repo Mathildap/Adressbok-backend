@@ -8,5 +8,20 @@
     "userName": "Mari",
     "userMail": "mari@mail.com",
     "userTel": "07034838"
+  },
+  {
+    "userName": "Lilli",
+    "userMail": "lilli.duval@example.com",
+    "userTel": "079 400 06 98"
+  },
+  {
+    "userName": "Connor",
+    "userMail": "connor.white@example.com",
+    "userTel": "(640)-025-1864"
+  },
+  {
+    "userName": "Mathilda",
+    "userMail": "Robin.olsson89@hotmail.com",
+    "userTel": "992-265-416"
   }
 ]
